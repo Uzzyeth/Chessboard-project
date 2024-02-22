@@ -1,2 +1,51 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+</head>
+<body>
+    <h1>CHESS BOARD</h1>
+    <table align="center" width="500" height="500" border="1px">
+        <tr>
+            <td width="100" height="100" bgcolor=white></td>
+            <td width="100" height="100" bgcolor="black"></td>
+            <td width="100" height="100" bgcolor="white"></td>
+            <td width="100" height="100" bgcolor="black"></td>
+            <td width="100" height="100" bgcolor="white"></td>
+        </tr>
+        <tr>
+            <td width="100" height="100" bgcolor=black></td>
+            <td width="100" height="100" bgcolor="white"></td>
+            <td width="100" height="100" bgcolor="black"></td>
+            <td width="100" height="100" bgcolor="white"></td>
+            <td width="100" height="100" bgcolor="black"></td>
+        </tr>
+        <tr>
+            <td width="100" height="100" bgcolor=white></td>
+            <td width="100" height="100" bgcolor="black"></td>
+            <td width="100" height="100" bgcolor="white"></td>
+            <td width="100" height="100" bgcolor="black"></td>
+            <td width="100" height="100" bgcolor="white"></td>
+        </tr>
+        <tr>
+            <td width="100" height="100" bgcolor=black></td>
+            <td width="100" height="100" bgcolor="white"></td>
+            <td width="100" height="100" bgcolor="black"></td>
+            <td width="100" height="100" bgcolor="white"></td>
+            <td width="100" height="100" bgcolor="black"></td>
+        </tr>
+        <tr>
+            <td width="100" height="100" bgcolor=white></td>
+            <td width="100" height="100" bgcolor="black"></td>
+            <td width="100" height="100" bgcolor="white"></td>
+            <td width="100" height="100" bgcolor="black"></td>
+            <td width="100" height="100" bgcolor="white"></td>
+        </tr>
+    </table>
+</body>
+</html>
